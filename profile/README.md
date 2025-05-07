@@ -1,6 +1,6 @@
 # WP Sapien is a modern and innovative platform specialized in WordPress-based web technologies.
 
-<a href="https://wpsapien.com/about/" rel="nofollow"><img width="1920" alt="" src="https://raw.githubusercontent.com/wpsapien/.github/refs/heads/main/wpsapien-hero.png" style="max-width: 100%;"></a>
+<a href="https://wpsapien.com/about/" rel="nofollow"><img width="1920" alt="" src="https://raw.githubusercontent.com/wpsapien/.github/refs/heads/main/profile/4bc53f19085319f28013a712e06f4855.png" style="max-width: 100%;"></a>
 
 We provide premium-quality WordPress plugins, professionally designed themes, optimized hosting packages, and AI-driven solutions to empower your digital presence.
 
